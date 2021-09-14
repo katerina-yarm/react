@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.cdc12f5f.chunk.css",
+    "main.js": "/react/static/js/main.9759c323.chunk.js",
+    "main.js.map": "/react/static/js/main.9759c323.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.f57c3ab2.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.f57c3ab2.js.map",
+    "static/js/2.133d96d4.chunk.js": "/react/static/js/2.133d96d4.chunk.js",
+    "static/js/2.133d96d4.chunk.js.map": "/react/static/js/2.133d96d4.chunk.js.map",
+    "static/js/3.ccd83ea7.chunk.js": "/react/static/js/3.ccd83ea7.chunk.js",
+    "static/js/3.ccd83ea7.chunk.js.map": "/react/static/js/3.ccd83ea7.chunk.js.map",
+    "index.html": "/react/index.html",
+    "static/css/main.cdc12f5f.chunk.css.map": "/react/static/css/main.cdc12f5f.chunk.css.map",
+    "static/js/2.133d96d4.chunk.js.LICENSE.txt": "/react/static/js/2.133d96d4.chunk.js.LICENSE.txt",
+    "static/media/Login.module.css": "/react/static/media/image.8f4c3bbd.jpg",
+    "static/media/Home.module.css": "/react/static/media/image4.ac7d0f5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f57c3ab2.js",
+    "static/js/2.133d96d4.chunk.js",
+    "static/css/main.cdc12f5f.chunk.css",
+    "static/js/main.9759c323.chunk.js"
+  ]
+}
